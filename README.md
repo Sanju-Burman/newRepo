@@ -51,11 +51,11 @@ Contributions are welcome! To contribute to this project, follow these steps:
    ```
 3. Make your changes and commit them:
    ```bash
-   git commit -m 'Add some feature'
+   git commit -m 'Adding index.html'
    ```
 4. Push to the branch:
    ```bash
-   git push origin feature/your-feature-name
+   git push origin 
    ```
 5. Open a pull request.
 
